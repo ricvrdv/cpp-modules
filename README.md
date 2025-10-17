@@ -54,6 +54,7 @@ Concepts:
 
 ## [CPP-05](https://github.com/ricvrdv/cpp-05) - Exceptions
 
-Concept:
+Concepts:
 
 - Exceptions
+- `try`, `catch`, and `throw` keywords
