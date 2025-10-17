@@ -51,3 +51,9 @@ Concepts:
 - Pure virtual functions
 - Virtual Destructors
 - Deep copies
+
+## [CPP-05](https://github.com/ricvrdv/cpp-05) - Exceptions
+
+Concept:
+
+- Exceptions
